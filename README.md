@@ -188,4 +188,4 @@ This repository serves as the official landing page for Euro Truck Simulator 2 S
 **Get the most recent version of Euro Truck Simulator 2 Scania 113H today!**
 
 ---
-**Last updated:** 2026-11-09 07:38:55 UTC
+**Last updated:** 2026-11-09 18:18:12 UTC
